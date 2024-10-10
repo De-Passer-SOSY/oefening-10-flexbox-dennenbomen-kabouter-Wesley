@@ -1,0 +1,21 @@
+.treeContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.treeContainer > article {
+    width: 30%;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 10px;
+}
+
+body {
+    font-family: "Sixtyfour Convergence", sans-serif;
+}
+
+img {
+    width: 70%;
+}
